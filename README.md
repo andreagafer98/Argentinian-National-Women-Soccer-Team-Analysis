@@ -22,19 +22,12 @@ Using Python for data analysis, the goal was to answer the following specific qu
 The findings helped to identify Argentina’s strengths and suggested ways to neutralize them:
 
 1. Block Passing Lines:
-
-Between Aldana Cometti and Celeste Dos Santos
-Between Aldana Cometti and Eliana Stábile
-Between Mirian Mayorga and Romina Núñez
-
+- Between Aldana Cometti and Celeste Dos Santos
+- Between Aldana Cometti and Eliana Stábile
+- Between Mirian Mayorga and Romina Núñez
 2. Neutralize Key Defenders:
-
 3. Develop a strategy to disrupt Aldana Cometti and Vanina Preininger, who are crucial to Argentina’s defense in recovering balls and initiating counterattacks.
-
 4. Target Key Receivers:
-
-Anticipate and mark Dálila Ippolito and Vanina Preininger, Argentina’s primary ball receivers in the Gold Cup.
-
+- Anticipate and mark Dálila Ippolito and Vanina Preininger, Argentina’s primary ball receivers in the Gold Cup.
 5. Prevent Dangerous Crosses:
-
-Focus on stopping early crosses, particularly from Eliana Stábile, who is the most effective crosser on the left flank with a 33% success rate.
+- Focus on stopping early crosses, particularly from Eliana Stábile, who is the most effective crosser on the left flank with a 33% success rate.
